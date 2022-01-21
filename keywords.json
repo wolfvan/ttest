@@ -1,0 +1,260 @@
+{"id":1,"keyword":"Afghanistan","currency":"Afghanistan Afghani","stock":"","market":""}
+{"id":2,"keyword":"Albania","currency":"Albania Lek","stock":"","market":""}
+{"id":3,"keyword":"Algeria","currency":"Algeria Dinar","stock":"","market":""}
+{"id":4,"keyword":"American Samoa","currency":"USA Dollar","stock":"","market":""}
+{"id":5,"keyword":"Andorra","currency":"Euro","stock":"","market":""}
+{"id":6,"keyword":"Angola","currency":"Angola Kwanza","stock":"","market":""}
+{"id":7,"keyword":"Anguilla","currency":"East Caribbean Dollar","stock":"","market":""}
+{"id":8,"keyword":"Antarctica","currency":"","stock":"","market":""}
+{"id":9,"keyword":"Antigua And Barbuda","currency":"East Caribbean Dollar","stock":"","market":""}
+{"id":10,"keyword":"Argentina","currency":"Argentina Peso","stock":"","market":""}
+{"id":11,"keyword":"Armenia","currency":"Armenia Dram","stock":"","market":""}
+{"id":12,"keyword":"Aruba","currency":"Aruba Florin","stock":"","market":""}
+{"id":13,"keyword":"Ascension Island","currency":"USA Dollar","stock":"","market":""}
+{"id":14,"keyword":"Australia","currency":"Australia Dollar","stock":"","market":""}
+{"id":15,"keyword":"Austria","currency":"Euro","stock":"","market":""}
+{"id":16,"keyword":"Azerbaijan","currency":"Azerbaijan New Manat","stock":"","market":""}
+{"id":17,"keyword":"Bahamas","currency":"Bahamas Dollar","stock":"","market":""}
+{"id":18,"keyword":"Bahrain","currency":"Bahrain Dinar","stock":"","market":""}
+{"id":19,"keyword":"Bangladesh","currency":"Bangladesh Taka","stock":"","market":""}
+{"id":20,"keyword":"Barbados","currency":"Barbados Dollar","stock":"","market":""}
+{"id":21,"keyword":"Belarus","currency":"Belarus Ruble","stock":"","market":""}
+{"id":22,"keyword":"Belgium","currency":"Euro","stock":"","market":""}
+{"id":23,"keyword":"Belize","currency":"Belize Dollar","stock":"","market":""}
+{"id":24,"keyword":"Benin","currency":"CFA Franc BCEAO","stock":"","market":""}
+{"id":25,"keyword":"Bermuda","currency":"Bermuda Dollar","stock":"","market":""}
+{"id":26,"keyword":"Bhutan","currency":"Bhutan Ngultrum","stock":"","market":""}
+{"id":27,"keyword":"Bolivia, Plurinational State Of","currency":"Bolivia Boliviano","stock":"","market":""}
+{"id":28,"keyword":"Bonaire, Saint Eustatius And Saba","currency":"USA Dollar","stock":"","market":""}
+{"id":29,"keyword":"Bosnia & Herzegovina","currency":"Bosnia Mark","stock":"","market":""}
+{"id":30,"keyword":"Botswana","currency":"Botswana Pula","stock":"","market":""}
+{"id":31,"keyword":"Bouvet Island","currency":"Norway Kroner","stock":"","market":""}
+{"id":32,"keyword":"Brazil","currency":"Brazil Real","stock":"","market":""}
+{"id":33,"keyword":"British Indian Ocean Territory","currency":"USA Dollar","stock":"","market":""}
+{"id":34,"keyword":"Brunei Darussalam","currency":"Brunei Dollar","stock":"","market":""}
+{"id":35,"keyword":"Bulgaria","currency":"Bulgaria Lev","stock":"","market":""}
+{"id":36,"keyword":"Burkina Faso","currency":"CFA Franc BCEAO","stock":"","market":""}
+{"id":37,"keyword":"Burundi","currency":"Burundi Franc","stock":"","market":""}
+{"id":38,"keyword":"Cabo Verde","currency":"Cape Verde Escudo","stock":"","market":""}
+{"id":39,"keyword":"Cambodia","currency":"Cambodia Riel","stock":"","market":""}
+{"id":40,"keyword":"Cameroon","currency":"CFA Franc BEAC","stock":"","market":""}
+{"id":41,"keyword":"Canada","currency":"Canada Dollar","stock":"","market":""}
+{"id":42,"keyword":"Canary Islands","currency":"Euro","stock":"","market":""}
+{"id":43,"keyword":"Cayman Islands","currency":"Cayman Islands Dollar","stock":"","market":""}
+{"id":44,"keyword":"Central African Republic","currency":"CFA Franc BEAC","stock":"","market":""}
+{"id":45,"keyword":"Ceuta, Mulilla","currency":"Euro","stock":"","market":""}
+{"id":46,"keyword":"Chad","currency":"CFA Franc BEAC","stock":"","market":""}
+{"id":47,"keyword":"Chile","currency":"Chili Peso","stock":"","market":""}
+{"id":48,"keyword":"China","currency":"China Yuan/Renminbi","stock":"","market":""}
+{"id":49,"keyword":"Christmas Island","currency":"Australia Dollar","stock":"","market":""}
+{"id":50,"keyword":"Clipperton Island","currency":"Euro","stock":"","market":""}
+{"id":51,"keyword":"Cocos (Keeling) Islands","currency":"Australia Dollar","stock":"","market":""}
+{"id":52,"keyword":"Colombia","currency":"Colombia Peso","stock":"","market":""}
+{"id":53,"keyword":"Comoros","currency":"Comoros Franc","stock":"","market":""}
+{"id":54,"keyword":"Cook Islands","currency":"New Zealand Dollar","stock":"","market":""}
+{"id":55,"keyword":"Costa Rica","currency":"Costa Rica Colon","stock":"","market":""}
+{"id":56,"keyword":"Croatia","currency":"Croatia Kuna","stock":"","market":""}
+{"id":57,"keyword":"Cuba","currency":"Cuba Peso, Cuba Convertible Peso","stock":"","market":""}
+{"id":58,"keyword":"Curacao","currency":"NL Antilles Guilder","stock":"","market":""}
+{"id":59,"keyword":"Cyprus","currency":"Euro","stock":"","market":""}
+{"id":60,"keyword":"Czech Republic","currency":"Czech Koruna","stock":"","market":""}
+{"id":61,"keyword":"Côte d'Ivoire","currency":"CFA Franc BCEAO","stock":"","market":""}
+{"id":62,"keyword":"Democratic Republic Of Congo","currency":"Congo Franc","stock":"","market":""}
+{"id":63,"keyword":"Denmark","currency":"Denmark Krone","stock":"","market":""}
+{"id":64,"keyword":"Diego Garcia","currency":"USA Dollar","stock":"","market":""}
+{"id":65,"keyword":"Djibouti","currency":"Djibouti Franc","stock":"","market":""}
+{"id":66,"keyword":"Dominica","currency":"East Caribbean Dollar","stock":"","market":""}
+{"id":67,"keyword":"Dominican Republic","currency":"Dominican Republich Peso","stock":"","market":""}
+{"id":68,"keyword":"Ecuador","currency":"USA Dollar","stock":"","market":""}
+{"id":69,"keyword":"Egypt","currency":"Egypt Pound","stock":"","market":""}
+{"id":70,"keyword":"El Salvador","currency":"USA Dollar","stock":"","market":""}
+{"id":71,"keyword":"Equatorial Guinea","currency":"CFA Franc BEAC","stock":"","market":""}
+{"id":72,"keyword":"Eritrea","currency":"","stock":"","market":""}
+{"id":73,"keyword":"Estonia","currency":"Euro","stock":"","market":""}
+{"id":74,"keyword":"Ethiopia","currency":"Ethiopia Birr","stock":"","market":""}
+{"id":75,"keyword":"European Union","currency":"Euro","stock":"","market":""}
+{"id":76,"keyword":"Falkland Islands","currency":"Falkland Islands Pound","stock":"","market":""}
+{"id":77,"keyword":"Faroe Islands","currency":"Denmark Krone","stock":"","market":""}
+{"id":78,"keyword":"Fiji","currency":"Fiji Dollar","stock":"","market":""}
+{"id":79,"keyword":"Finland","currency":"Euro","stock":"","market":""}
+{"id":80,"keyword":"France","currency":"Euro","stock":"","market":""}
+{"id":81,"keyword":"France, Metropolitan","currency":"Euro","stock":"","market":""}
+{"id":82,"keyword":"French Guiana","currency":"Euro","stock":"","market":""}
+{"id":83,"keyword":"French Polynesia","currency":"CFP Franc","stock":"","market":""}
+{"id":84,"keyword":"French Southern Territories","currency":"Euro","stock":"","market":""}
+{"id":85,"keyword":"Gabon","currency":"CFA Franc BEAC","stock":"","market":""}
+{"id":86,"keyword":"Gambia","currency":"Gambia Dalasi","stock":"","market":""}
+{"id":87,"keyword":"Georgia","currency":"Georgia Lari","stock":"","market":""}
+{"id":88,"keyword":"Germany","currency":"Euro","stock":"","market":""}
+{"id":89,"keyword":"Ghana","currency":"Ghana New Cedi","stock":"","market":""}
+{"id":90,"keyword":"Gibraltar","currency":"Gibraltar Pound","stock":"","market":""}
+{"id":91,"keyword":"Greece","currency":"Euro","stock":"","market":""}
+{"id":92,"keyword":"Greenland","currency":"Denmark Krone","stock":"","market":""}
+{"id":93,"keyword":"Grenada","currency":"East Caribbean Dollar","stock":"","market":""}
+{"id":94,"keyword":"Guadeloupe","currency":"Euro","stock":"","market":""}
+{"id":95,"keyword":"Guam","currency":"USA Dollar","stock":"","market":""}
+{"id":96,"keyword":"Guatemala","currency":"Guatemala Quetzal","stock":"","market":""}
+{"id":97,"keyword":"Guernsey","currency":"Great Britain Pound","stock":"","market":""}
+{"id":98,"keyword":"Guinea","currency":"Guinea Franc","stock":"","market":""}
+{"id":99,"keyword":"Guinea-bissau","currency":"CFA Franc BCEAO","stock":"","market":""}
+{"id":100,"keyword":"Guyana","currency":"Guyana Dollar","stock":"","market":""}
+{"id":101,"keyword":"Haiti","currency":"USA Dollar","stock":"","market":""}
+{"id":102,"keyword":"Heard Island And McDonald Islands","currency":"Australia Dollar","stock":"","market":""}
+{"id":103,"keyword":"Honduras","currency":"Honduras Lempira","stock":"","market":""}
+{"id":104,"keyword":"Hong Kong","currency":"Hong Kong Dollar","stock":"","market":""}
+{"id":105,"keyword":"Hungary","currency":"Hungary Forint","stock":"","market":""}
+{"id":106,"keyword":"Iceland","currency":"Iceland Krona","stock":"","market":""}
+{"id":107,"keyword":"India","currency":"India Rupee","stock":"","market":""}
+{"id":108,"keyword":"Indonesia","currency":"Indonesia Rupiah","stock":"","market":""}
+{"id":109,"keyword":"Iran, Islamic Republic Of","currency":"Iran Rial","stock":"","market":""}
+{"id":110,"keyword":"Iraq","currency":"Iraq Dinar","stock":"","market":""}
+{"id":111,"keyword":"Ireland","currency":"Euro","stock":"","market":""}
+{"id":112,"keyword":"Isle Of Man","currency":"Great Britain Pound","stock":"","market":""}
+{"id":113,"keyword":"Israel","currency":"Israel New Shekel","stock":"","market":""}
+{"id":114,"keyword":"Italy","currency":"Euro","stock":"","market":""}
+{"id":115,"keyword":"Jamaica","currency":"Jamaica Dollar","stock":"","market":""}
+{"id":116,"keyword":"Japan","currency":"Japan Yen","stock":"","market":""}
+{"id":117,"keyword":"Jersey","currency":"Great Britain Pound","stock":"","market":""}
+{"id":118,"keyword":"Jordan","currency":"Jordan Dinar","stock":"","market":""}
+{"id":119,"keyword":"Kazakhstan","currency":"Kazakhstan Tenge","stock":"","market":""}
+{"id":120,"keyword":"Kenya","currency":"Kenya Shilling","stock":"","market":""}
+{"id":121,"keyword":"Kiribati","currency":"Australia Dollar","stock":"","market":""}
+{"id":122,"keyword":"Korea, Democratic People's Republic Of","currency":"North Korea Won","stock":"","market":""}
+{"id":123,"keyword":"Korea, Republic Of","currency":"South Korea Won","stock":"","market":""}
+{"id":124,"keyword":"Kosovo","currency":"Euro","stock":"","market":""}
+{"id":125,"keyword":"Kuwait","currency":"Kuwait Dinar","stock":"","market":""}
+{"id":126,"keyword":"Kyrgyzstan","currency":"Kyrgyzstan Som","stock":"","market":""}
+{"id":127,"keyword":"Lao People's Democratic Republic","currency":"Laos Kip","stock":"","market":""}
+{"id":128,"keyword":"Latvia","currency":"Euro","stock":"","market":""}
+{"id":129,"keyword":"Lebanon","currency":"Lebanon Pound","stock":"","market":""}
+{"id":130,"keyword":"Lesotho","currency":"Lesotho Loti","stock":"","market":""}
+{"id":131,"keyword":"Liberia","currency":"Liberia Dollar","stock":"","market":""}
+{"id":132,"keyword":"Libya","currency":"Libya Dinar","stock":"","market":""}
+{"id":133,"keyword":"Liechtenstein","currency":"Switzerland Franc","stock":"","market":""}
+{"id":134,"keyword":"Lithuania","currency":"Euro","stock":"","market":""}
+{"id":135,"keyword":"Luxembourg","currency":"Euro","stock":"","market":""}
+{"id":136,"keyword":"Macao","currency":"Macau Pataca","stock":"","market":""}
+{"id":137,"keyword":"Macedonia, The Former Yugoslav Republic Of","currency":"Macedonia Denar","stock":"","market":""}
+{"id":138,"keyword":"Madagascar","currency":"Malagasy Ariary","stock":"","market":""}
+{"id":139,"keyword":"Malawi","currency":"Malawi Kwacha","stock":"","market":""}
+{"id":140,"keyword":"Malaysia","currency":"Malaysia Ringgit","stock":"","market":""}
+{"id":141,"keyword":"Maldives","currency":"Maldives Rufiyaa","stock":"","market":""}
+{"id":142,"keyword":"Mali","currency":"CFA Franc BCEAO","stock":"","market":""}
+{"id":143,"keyword":"Malta","currency":"Euro","stock":"","market":""}
+{"id":144,"keyword":"Marshall Islands","currency":"USA Dollar","stock":"","market":""}
+{"id":145,"keyword":"Martinique","currency":"Euro","stock":"","market":""}
+{"id":146,"keyword":"Mauritania","currency":"Mauritania Ouguiya","stock":"","market":""}
+{"id":147,"keyword":"Mauritius","currency":"Mauritius Rupee","stock":"","market":""}
+{"id":148,"keyword":"Mayotte","currency":"Euro","stock":"","market":""}
+{"id":149,"keyword":"Mexico","currency":"Mexico Peso","stock":"","market":""}
+{"id":150,"keyword":"Micronesia, Federated States Of","currency":"USA Dollar","stock":"","market":""}
+{"id":151,"keyword":"Moldova","currency":"Moldova Leu","stock":"","market":""}
+{"id":152,"keyword":"Monaco","currency":"Euro","stock":"","market":""}
+{"id":153,"keyword":"Mongolia","currency":"Mongolia Tugrik","stock":"","market":""}
+{"id":154,"keyword":"Montenegro","currency":"Euro","stock":"","market":""}
+{"id":155,"keyword":"Montserrat","currency":"East Caribbean Dollar","stock":"","market":""}
+{"id":156,"keyword":"Morocco","currency":"Morocco Dirham","stock":"","market":""}
+{"id":157,"keyword":"Mozambique","currency":"Mozambique New Metical","stock":"","market":""}
+{"id":158,"keyword":"Myanmar","currency":"Myanmar Kyat","stock":"","market":""}
+{"id":159,"keyword":"Namibia","currency":"Namibia Dollar","stock":"","market":""}
+{"id":160,"keyword":"Nauru","currency":"Australia Dollar","stock":"","market":""}
+{"id":161,"keyword":"Nepal","currency":"Nepal Rupee","stock":"","market":""}
+{"id":162,"keyword":"Netherlands","currency":"Euro","stock":"","market":""}
+{"id":163,"keyword":"New Caledonia","currency":"CFP Franc","stock":"","market":""}
+{"id":164,"keyword":"New Zealand","currency":"New Zealand Dollar","stock":"","market":""}
+{"id":165,"keyword":"Nicaragua","currency":"Nicaragua Cordoba Oro","stock":"","market":""}
+{"id":166,"keyword":"Niger","currency":"CFA Franc BCEAO","stock":"","market":""}
+{"id":167,"keyword":"Nigeria","currency":"Nigeria Naira","stock":"","market":""}
+{"id":168,"keyword":"Niue","currency":"New Zealand Dollar","stock":"","market":""}
+{"id":169,"keyword":"Norfolk Island","currency":"Australia Dollar","stock":"","market":""}
+{"id":170,"keyword":"Northern Mariana Islands","currency":"USA Dollar","stock":"","market":""}
+{"id":171,"keyword":"Norway","currency":"Norway Kroner","stock":"","market":""}
+{"id":172,"keyword":"Oman","currency":"Oman Rial","stock":"","market":""}
+{"id":173,"keyword":"Pakistan","currency":"Pakistan Rupee","stock":"","market":""}
+{"id":174,"keyword":"Palau","currency":"USA Dollar","stock":"","market":""}
+{"id":175,"keyword":"Palestinian Territory, Occupied","currency":"Jordan Dinar, Egypt Pound, Israel New Shekel","stock":"","market":""}
+{"id":176,"keyword":"Panama","currency":"Panama Balboa, USA Dollar","stock":"","market":""}
+{"id":177,"keyword":"Papua New Guinea","currency":"Papua New Guinea Kina","stock":"","market":""}
+{"id":178,"keyword":"Paraguay","currency":"Paraguay Guarani","stock":"","market":""}
+{"id":179,"keyword":"Peru","currency":"Peru Nuevo Sol","stock":"","market":""}
+{"id":180,"keyword":"Philippines","currency":"Philippines Peso","stock":"","market":""}
+{"id":181,"keyword":"Pitcairn","currency":"New Zealand Dollar","stock":"","market":""}
+{"id":182,"keyword":"Poland","currency":"Poland Zloty","stock":"","market":""}
+{"id":183,"keyword":"Portugal","currency":"Euro","stock":"","market":""}
+{"id":184,"keyword":"Puerto Rico","currency":"USA Dollar","stock":"","market":""}
+{"id":185,"keyword":"Qatar","currency":"Qatar Rial","stock":"","market":""}
+{"id":186,"keyword":"Republic Of Congo","currency":"CFA Franc BEAC","stock":"","market":""}
+{"id":187,"keyword":"Reunion","currency":"Euro","stock":"","market":""}
+{"id":188,"keyword":"Romania","currency":"Romania New Lei","stock":"","market":""}
+{"id":189,"keyword":"Russian Federation","currency":"Russia Rouble","stock":"","market":""}
+{"id":190,"keyword":"Rwanda","currency":"Rwanda Franc","stock":"","market":""}
+{"id":191,"keyword":"Saint Barthélemy","currency":"Euro","stock":"","market":""}
+{"id":192,"keyword":"Saint Helena, Ascension And Tristan Da Cunha","currency":"St Helena Pound","stock":"","market":""}
+{"id":193,"keyword":"Saint Kitts And Nevis","currency":"East Caribbean Dollar","stock":"","market":""}
+{"id":194,"keyword":"Saint Lucia","currency":"East Caribbean Dollar","stock":"","market":""}
+{"id":195,"keyword":"Saint Martin","currency":"Euro","stock":"","market":""}
+{"id":196,"keyword":"Saint Pierre And Miquelon","currency":"Euro","stock":"","market":""}
+{"id":197,"keyword":"Saint Vincent And The Grenadines","currency":"East Caribbean Dollar","stock":"","market":""}
+{"id":198,"keyword":"Samoa","currency":"Samoa Tala","stock":"","market":""}
+{"id":199,"keyword":"San Marino","currency":"Euro","stock":"","market":""}
+{"id":200,"keyword":"Sao Tome and Principe","currency":"Sao Tome/Principe Dobra","stock":"","market":""}
+{"id":201,"keyword":"Saudi Arabia","currency":"Saudi Arabia Riyal","stock":"","market":""}
+{"id":202,"keyword":"Senegal","currency":"CFA Franc BCEAO","stock":"","market":""}
+{"id":203,"keyword":"Serbia","currency":"Serbia Dinar","stock":"","market":""}
+{"id":204,"keyword":"Seychelles","currency":"Seychelles Rupee","stock":"","market":""}
+{"id":205,"keyword":"Sierra Leone","currency":"Sierra Leone Leone","stock":"","market":""}
+{"id":206,"keyword":"Singapore","currency":"Singapore Dollar","stock":"","market":""}
+{"id":207,"keyword":"Sint Maarten","currency":"NL Antilles Guilder","stock":"","market":""}
+{"id":208,"keyword":"Slovakia","currency":"Euro","stock":"","market":""}
+{"id":209,"keyword":"Slovenia","currency":"Euro","stock":"","market":""}
+{"id":210,"keyword":"Solomon Islands","currency":"Solomon Islands Dollar","stock":"","market":""}
+{"id":211,"keyword":"Somalia","currency":"Somali Shilling","stock":"","market":""}
+{"id":212,"keyword":"South Africa","currency":"South Africa Rand","stock":"","market":""}
+{"id":213,"keyword":"South Georgia And The South Sandwich Islands","currency":"Great Britain Pound","stock":"","market":""}
+{"id":214,"keyword":"South Sudan","currency":"","stock":"","market":""}
+{"id":215,"keyword":"Spain","currency":"Euro","stock":"","market":""}
+{"id":216,"keyword":"Sri Lanka","currency":"Sri Lanka Rupee","stock":"","market":""}
+{"id":217,"keyword":"Sudan","currency":"Sudan Pound","stock":"","market":""}
+{"id":218,"keyword":"Suriname","currency":"Suriname Dollar","stock":"","market":""}
+{"id":219,"keyword":"Svalbard And Jan Mayen","currency":"Norway Kroner","stock":"","market":""}
+{"id":220,"keyword":"Swaziland","currency":"Swaziland Lilangeni","stock":"","market":""}
+{"id":221,"keyword":"Sweden","currency":"Sweden Krona","stock":"","market":""}
+{"id":222,"keyword":"Switzerland","currency":"Switzerland Franc","stock":"","market":""}
+{"id":223,"keyword":"Syrian Arab Republic","currency":"Syria Pound","stock":"","market":""}
+{"id":224,"keyword":"Taiwan","currency":"Taiwan Dollar","stock":"","market":""}
+{"id":225,"keyword":"Tajikistan","currency":"","stock":"","market":""}
+{"id":226,"keyword":"Tanzania, United Republic Of","currency":"Tanzania Shilling","stock":"","market":""}
+{"id":227,"keyword":"Thailand","currency":"Thailand Baht","stock":"","market":""}
+{"id":228,"keyword":"Timor-Leste, Democratic Republic of","currency":"USA Dollar","stock":"","market":""}
+{"id":229,"keyword":"Togo","currency":"CFA Franc BCEAO","stock":"","market":""}
+{"id":230,"keyword":"Tokelau","currency":"New Zealand Dollar","stock":"","market":""}
+{"id":231,"keyword":"Tonga","currency":"Tonga Pa'anga","stock":"","market":""}
+{"id":232,"keyword":"Trinidad And Tobago","currency":"Trinidad/Tobago Dollar","stock":"","market":""}
+{"id":233,"keyword":"Tristan de Cunha","currency":"Great Britain Pound","stock":"","market":""}
+{"id":234,"keyword":"Tunisia","currency":"Tunisia Dinar","stock":"","market":""}
+{"id":235,"keyword":"Turkey","currency":"Turkish New Lira","stock":"","market":""}
+{"id":236,"keyword":"Turkmenistan","currency":"Turkmenistan Manat","stock":"","market":""}
+{"id":237,"keyword":"Turks And Caicos Islands","currency":"USA Dollar","stock":"","market":""}
+{"id":238,"keyword":"Tuvalu","currency":"Australia Dollar","stock":"","market":""}
+{"id":239,"keyword":"Uganda","currency":"Uganda Shilling","stock":"","market":""}
+{"id":240,"keyword":"Ukraine","currency":"Ukraine Hryvnia","stock":"","market":""}
+{"id":241,"keyword":"United Arab Emirates","currency":"United Arab Emirates Dirham","stock":"","market":""}
+{"id":242,"keyword":"United Kingdom","currency":"Great Britain Pound","stock":"","market":""}
+{"id":243,"keyword":"United Kingdom","currency":"Great Britain Pound","stock":"","market":""}
+{"id":244,"keyword":"United States","currency":"USA Dollar","stock":"","market":""}
+{"id":245,"keyword":"United States Minor Outlying Islands","currency":"USA Dollar","stock":"","market":""}
+{"id":246,"keyword":"Uruguay","currency":"Uruguay Peso","stock":"","market":""}
+{"id":247,"keyword":"USSR","currency":"Russia Rouble","stock":"","market":""}
+{"id":248,"keyword":"Uzbekistan","currency":"","stock":"","market":""}
+{"id":249,"keyword":"Vanuatu","currency":"Vanuatu Vatu","stock":"","market":""}
+{"id":250,"keyword":"Vatican City State","currency":"Euro","stock":"","market":""}
+{"id":251,"keyword":"Venezuela, Bolivarian Republic Of","currency":"","stock":"","market":""}
+{"id":252,"keyword":"Viet Nam","currency":"Vietnam Dong","stock":"","market":""}
+{"id":253,"keyword":"Virgin Islands (British)","currency":"USA Dollar","stock":"","market":""}
+{"id":254,"keyword":"Virgin Islands (US)","currency":"USA Dollar","stock":"","market":""}
+{"id":255,"keyword":"Wallis And Futuna","currency":"CFP Franc","stock":"","market":""}
+{"id":256,"keyword":"Western Sahara","currency":"Morocco Dirham","stock":"","market":""}
+{"id":257,"keyword":"Yemen","currency":"Yemen Rial","stock":"","market":""}
+{"id":258,"keyword":"Zambia","currency":"Zambia Kwacha","stock":"","market":""}
+{"id":259,"keyword":"Zimbabwe","currency":"USA Dollar, Great Britain Pound, Euro","stock":"","market":""}
+{"id":260,"keyword":"Åland Islands","currency":"Euro","stock":"","market":""}
