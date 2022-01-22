@@ -25,8 +25,8 @@ id;country;currency
 24;Benin;CFA Franc BCEAO
 25;Bermuda;Bermuda Dollar
 26;Bhutan;Bhutan Ngultrum
-27;Bolivia, Plurinational State Of;Bolivia Boliviano
-28;Bonaire, Saint Eustatius And Saba;USA Dollar
+27;Bolivia Plurinational State Of;Bolivia Boliviano
+28;Bonaire Saint Eustatius And Saba;USA Dollar
 29;Bosnia & Herzegovina;Bosnia Mark
 30;Botswana;Botswana Pula
 31;Bouvet Island;Norway Kroner
@@ -79,7 +79,7 @@ id;country;currency
 78;Fiji;Fiji Dollar
 79;Finland;Euro
 80;France;Euro
-81;France, Metropolitan;Euro
+81;France Metropolitan;Euro
 82;French Guiana;Euro
 83;French Polynesia;CFP Franc
 84;French Southern Territories;Euro
