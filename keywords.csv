@@ -1,0 +1,261 @@
+id;country;currency
+1;Afghanistan;Afghanistan Afghani
+2;Albania;Albania Lek
+3;Algeria;Algeria Dinar
+4;American Samoa;USA Dollar
+5;Andorra;Euro
+6;Angola;Angola Kwanza
+7;Anguilla;East Caribbean Dollar
+8;Antarctica;
+9;Antigua And Barbuda;East Caribbean Dollar
+10;Argentina;Argentina Peso
+11;Armenia;Armenia Dram
+12;Aruba;Aruba Florin
+13;Ascension Island;USA Dollar
+14;Australia;Australia Dollar
+15;Austria;Euro
+16;Azerbaijan;Azerbaijan New Manat
+17;Bahamas;Bahamas Dollar
+18;Bahrain;Bahrain Dinar
+19;Bangladesh;Bangladesh Taka
+20;Barbados;Barbados Dollar
+21;Belarus;Belarus Ruble
+22;Belgium;Euro
+23;Belize;Belize Dollar
+24;Benin;CFA Franc BCEAO
+25;Bermuda;Bermuda Dollar
+26;Bhutan;Bhutan Ngultrum
+27;Bolivia, Plurinational State Of;Bolivia Boliviano
+28;Bonaire, Saint Eustatius And Saba;USA Dollar
+29;Bosnia & Herzegovina;Bosnia Mark
+30;Botswana;Botswana Pula
+31;Bouvet Island;Norway Kroner
+32;Brazil;Brazil Real
+33;British Indian Ocean Territory;USA Dollar
+34;Brunei Darussalam;Brunei Dollar
+35;Bulgaria;Bulgaria Lev
+36;Burkina Faso;CFA Franc BCEAO
+37;Burundi;Burundi Franc
+38;Cabo Verde;Cape Verde Escudo
+39;Cambodia;Cambodia Riel
+40;Cameroon;CFA Franc BEAC
+41;Canada;Canada Dollar
+42;Canary Islands;Euro
+43;Cayman Islands;Cayman Islands Dollar
+44;Central African Republic;CFA Franc BEAC
+45;Ceuta, Mulilla;Euro
+46;Chad;CFA Franc BEAC
+47;Chile;Chili Peso
+48;China;China Yuan/Renminbi
+49;Christmas Island;Australia Dollar
+50;Clipperton Island;Euro
+51;Cocos (Keeling) Islands;Australia Dollar
+52;Colombia;Colombia Peso
+53;Comoros;Comoros Franc
+54;Cook Islands;New Zealand Dollar
+55;Costa Rica;Costa Rica Colon
+56;Croatia;Croatia Kuna
+57;Cuba;Cuba Peso, Cuba Convertible Peso
+58;Curacao;NL Antilles Guilder
+59;Cyprus;Euro
+60;Czech Republic;Czech Koruna
+61;Cìte d'Ivoire;CFA Franc BCEAO
+62;Democratic Republic Of Congo;Congo Franc
+63;Denmark;Denmark Krone
+64;Diego Garcia;USA Dollar
+65;Djibouti;Djibouti Franc
+66;Dominica;East Caribbean Dollar
+67;Dominican Republic;Dominican Republich Peso
+68;Ecuador;USA Dollar
+69;Egypt;Egypt Pound
+70;El Salvador;USA Dollar
+71;Equatorial Guinea;CFA Franc BEAC
+72;Eritrea;
+73;Estonia;Euro
+74;Ethiopia;Ethiopia Birr
+75;European Union;Euro
+76;Falkland Islands;Falkland Islands Pound
+77;Faroe Islands;Denmark Krone
+78;Fiji;Fiji Dollar
+79;Finland;Euro
+80;France;Euro
+81;France, Metropolitan;Euro
+82;French Guiana;Euro
+83;French Polynesia;CFP Franc
+84;French Southern Territories;Euro
+85;Gabon;CFA Franc BEAC
+86;Gambia;Gambia Dalasi
+87;Georgia;Georgia Lari
+88;Germany;Euro
+89;Ghana;Ghana New Cedi
+90;Gibraltar;Gibraltar Pound
+91;Greece;Euro
+92;Greenland;Denmark Krone
+93;Grenada;East Caribbean Dollar
+94;Guadeloupe;Euro
+95;Guam;USA Dollar
+96;Guatemala;Guatemala Quetzal
+97;Guernsey;Great Britain Pound
+98;Guinea;Guinea Franc
+99;Guinea-bissau;CFA Franc BCEAO
+100;Guyana;Guyana Dollar
+101;Haiti;USA Dollar
+102;Heard Island And McDonald Islands;Australia Dollar
+103;Honduras;Honduras Lempira
+104;Hong Kong;Hong Kong Dollar
+105;Hungary;Hungary Forint
+106;Iceland;Iceland Krona
+107;India;India Rupee
+108;Indonesia;Indonesia Rupiah
+109;Iran, Islamic Republic Of;Iran Rial
+110;Iraq;Iraq Dinar
+111;Ireland;Euro
+112;Isle Of Man;Great Britain Pound
+113;Israel;Israel New Shekel
+114;Italy;Euro
+115;Jamaica;Jamaica Dollar
+116;Japan;Japan Yen
+117;Jersey;Great Britain Pound
+118;Jordan;Jordan Dinar
+119;Kazakhstan;Kazakhstan Tenge
+120;Kenya;Kenya Shilling
+121;Kiribati;Australia Dollar
+122;Korea, Democratic People's Republic Of;North Korea Won
+123;Korea, Republic Of;South Korea Won
+124;Kosovo;Euro
+125;Kuwait;Kuwait Dinar
+126;Kyrgyzstan;Kyrgyzstan Som
+127;Lao People's Democratic Republic;Laos Kip
+128;Latvia;Euro
+129;Lebanon;Lebanon Pound
+130;Lesotho;Lesotho Loti
+131;Liberia;Liberia Dollar
+132;Libya;Libya Dinar
+133;Liechtenstein;Switzerland Franc
+134;Lithuania;Euro
+135;Luxembourg;Euro
+136;Macao;Macau Pataca
+137;Macedonia, The Former Yugoslav Republic Of;Macedonia Denar
+138;Madagascar;Malagasy Ariary
+139;Malawi;Malawi Kwacha
+140;Malaysia;Malaysia Ringgit
+141;Maldives;Maldives Rufiyaa
+142;Mali;CFA Franc BCEAO
+143;Malta;Euro
+144;Marshall Islands;USA Dollar
+145;Martinique;Euro
+146;Mauritania;Mauritania Ouguiya
+147;Mauritius;Mauritius Rupee
+148;Mayotte;Euro
+149;Mexico;Mexico Peso
+150;Micronesia, Federated States Of;USA Dollar
+151;Moldova;Moldova Leu
+152;Monaco;Euro
+153;Mongolia;Mongolia Tugrik
+154;Montenegro;Euro
+155;Montserrat;East Caribbean Dollar
+156;Morocco;Morocco Dirham
+157;Mozambique;Mozambique New Metical
+158;Myanmar;Myanmar Kyat
+159;Namibia;Namibia Dollar
+160;Nauru;Australia Dollar
+161;Nepal;Nepal Rupee
+162;Netherlands;Euro
+163;New Caledonia;CFP Franc
+164;New Zealand;New Zealand Dollar
+165;Nicaragua;Nicaragua Cordoba Oro
+166;Niger;CFA Franc BCEAO
+167;Nigeria;Nigeria Naira
+168;Niue;New Zealand Dollar
+169;Norfolk Island;Australia Dollar
+170;Northern Mariana Islands;USA Dollar
+171;Norway;Norway Kroner
+172;Oman;Oman Rial
+173;Pakistan;Pakistan Rupee
+174;Palau;USA Dollar
+175;Palestinian Territory, Occupied;Jordan Dinar, Egypt Pound, Israel New Shekel
+176;Panama;Panama Balboa, USA Dollar
+177;Papua New Guinea;Papua New Guinea Kina
+178;Paraguay;Paraguay Guarani
+179;Peru;Peru Nuevo Sol
+180;Philippines;Philippines Peso
+181;Pitcairn;New Zealand Dollar
+182;Poland;Poland Zloty
+183;Portugal;Euro
+184;Puerto Rico;USA Dollar
+185;Qatar;Qatar Rial
+186;Republic Of Congo;CFA Franc BEAC
+187;Reunion;Euro
+188;Romania;Romania New Lei
+189;Russian Federation;Russia Rouble
+190;Rwanda;Rwanda Franc
+191;Saint BarthÇlemy;Euro
+192;Saint Helena, Ascension And Tristan Da Cunha;St Helena Pound
+193;Saint Kitts And Nevis;East Caribbean Dollar
+194;Saint Lucia;East Caribbean Dollar
+195;Saint Martin;Euro
+196;Saint Pierre And Miquelon;Euro
+197;Saint Vincent And The Grenadines;East Caribbean Dollar
+198;Samoa;Samoa Tala
+199;San Marino;Euro
+200;Sao Tome and Principe;Sao Tome/Principe Dobra
+201;Saudi Arabia;Saudi Arabia Riyal
+202;Senegal;CFA Franc BCEAO
+203;Serbia;Serbia Dinar
+204;Seychelles;Seychelles Rupee
+205;Sierra Leone;Sierra Leone Leone
+206;Singapore;Singapore Dollar
+207;Sint Maarten;NL Antilles Guilder
+208;Slovakia;Euro
+209;Slovenia;Euro
+210;Solomon Islands;Solomon Islands Dollar
+211;Somalia;Somali Shilling
+212;South Africa;South Africa Rand
+213;South Georgia And The South Sandwich Islands;Great Britain Pound
+214;South Sudan;
+215;Spain;Euro
+216;Sri Lanka;Sri Lanka Rupee
+217;Sudan;Sudan Pound
+218;Suriname;Suriname Dollar
+219;Svalbard And Jan Mayen;Norway Kroner
+220;Swaziland;Swaziland Lilangeni
+221;Sweden;Sweden Krona
+222;Switzerland;Switzerland Franc
+223;Syrian Arab Republic;Syria Pound
+224;Taiwan;Taiwan Dollar
+225;Tajikistan;
+226;Tanzania, United Republic Of;Tanzania Shilling
+227;Thailand;Thailand Baht
+228;Timor-Leste, Democratic Republic of;USA Dollar
+229;Togo;CFA Franc BCEAO
+230;Tokelau;New Zealand Dollar
+231;Tonga;Tonga Pa'anga
+232;Trinidad And Tobago;Trinidad/Tobago Dollar
+233;Tristan de Cunha;Great Britain Pound
+234;Tunisia;Tunisia Dinar
+235;Turkey;Turkish New Lira
+236;Turkmenistan;Turkmenistan Manat
+237;Turks And Caicos Islands;USA Dollar
+238;Tuvalu;Australia Dollar
+239;Uganda;Uganda Shilling
+240;Ukraine;Ukraine Hryvnia
+241;United Arab Emirates;United Arab Emirates Dirham
+242;United Kingdom;Great Britain Pound
+243;United Kingdom;Great Britain Pound
+244;United States;USA Dollar
+245;United States Minor Outlying Islands;USA Dollar
+246;Uruguay;Uruguay Peso
+247;USSR;Russia Rouble
+248;Uzbekistan;
+249;Vanuatu;Vanuatu Vatu
+250;Vatican City State;Euro
+251;Venezuela, Bolivarian Republic Of;
+252;Viet Nam;Vietnam Dong
+253;Virgin Islands (British);USA Dollar
+254;Virgin Islands (US);USA Dollar
+255;Wallis And Futuna;CFP Franc
+256;Western Sahara;Morocco Dirham
+257;Yemen;Yemen Rial
+258;Zambia;Zambia Kwacha
+259;Zimbabwe;USA Dollar, Great Britain Pound, Euro
+260;èland Islands;Euro
