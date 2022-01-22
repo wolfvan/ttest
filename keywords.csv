@@ -59,7 +59,7 @@ id;country;currency
 58;Curacao;NL Antilles Guilder
 59;Cyprus;Euro
 60;Czech Republic;Czech Koruna
-61;Cìte d'Ivoire;CFA Franc BCEAO
+61;Cote d'Ivoire;CFA Franc BCEAO
 62;Democratic Republic Of Congo;Congo Franc
 63;Denmark;Denmark Krone
 64;Diego Garcia;USA Dollar
@@ -189,7 +189,7 @@ id;country;currency
 188;Romania;Romania New Lei
 189;Russian Federation;Russia Rouble
 190;Rwanda;Rwanda Franc
-191;Saint BarthÇlemy;Euro
+191;Saint Barth‚Äölemy;Euro
 192;Saint Helena, Ascension And Tristan Da Cunha;St Helena Pound
 193;Saint Kitts And Nevis;East Caribbean Dollar
 194;Saint Lucia;East Caribbean Dollar
@@ -258,4 +258,4 @@ id;country;currency
 257;Yemen;Yemen Rial
 258;Zambia;Zambia Kwacha
 259;Zimbabwe;USA Dollar, Great Britain Pound, Euro
-260;èland Islands;Euro
+260;¬èland Islands;Euro
