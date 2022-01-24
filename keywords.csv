@@ -6,7 +6,7 @@ id;country;currency
 5;Andorra;Euro
 6;Angola;Angola Kwanza
 7;Anguilla;East Caribbean Dollar
-8;Antarctica;
+8;Antarctica;None
 9;Antigua And Barbuda;East Caribbean Dollar
 10;Argentina;Argentina Peso
 11;Armenia;Armenia Dram
@@ -70,7 +70,7 @@ id;country;currency
 69;Egypt;Egypt Pound
 70;El Salvador;USA Dollar
 71;Equatorial Guinea;CFA Franc BEAC
-72;Eritrea;
+72;Eritrea;None
 73;Estonia;Euro
 74;Ethiopia;Ethiopia Birr
 75;European Union;Euro
@@ -212,7 +212,7 @@ id;country;currency
 211;Somalia;Somali Shilling
 212;South Africa;South Africa Rand
 213;South Georgia And The South Sandwich Islands;Great Britain Pound
-214;South Sudan;
+214;South Sudan;None
 215;Spain;Euro
 216;Sri Lanka;Sri Lanka Rupee
 217;Sudan;Sudan Pound
