@@ -223,7 +223,7 @@ id;country;currency
 222;Switzerland;Switzerland Franc
 223;Syrian Arab Republic;Syria Pound
 224;Taiwan;Taiwan Dollar
-225;Tajikistan;
+225;Tajikistan;None
 226;Tanzania, United Republic Of;Tanzania Shilling
 227;Thailand;Thailand Baht
 228;Timor-Leste, Democratic Republic of;USA Dollar
@@ -246,7 +246,7 @@ id;country;currency
 245;United States Minor Outlying Islands;USA Dollar
 246;Uruguay;Uruguay Peso
 247;USSR;Russia Rouble
-248;Uzbekistan;
+248;Uzbekistan;None
 249;Vanuatu;Vanuatu Vatu
 250;Vatican City State;Euro
 251;Venezuela, Bolivarian Republic Of;
