@@ -1,0 +1,4 @@
+explorer.exe;cmd.exe
+cmd.exe;malware.exe
+explorer.exe;powershell.exe
+malware.exe;malware2.exe
