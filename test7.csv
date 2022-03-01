@@ -1,4 +1,3 @@
-Top values of keyword.keyword,Top values of relatedWords.keyword
 Ukraine,Ukraine
 Ukraine,Russia
 Ukraine,invasion
@@ -9,6 +8,11 @@ Ukraine,crisis
 Ukraine,target
 Ukraine,resident
 Ukraine,against
+Ukraine,world
+Ukraine,article
+Ukraine,style
+Ukraine,ensky
+Ukraine,foreign
 Russia,Russia
 Russia,Ukraine
 Russia,Russian
@@ -19,6 +23,11 @@ Russia,order
 Russia,against
 Russia,European
 Russia,crisis
+Russia,ensky
+Russia,nation
+Russia,world
+Russia,target
+Russia,internation
 23,Ukraine
 23,style
 23,target
@@ -29,6 +38,11 @@ Russia,crisis
 23,elated
 23,flare
 23,invasion
+23,rudge
+23,stories
+23,article
+23,world
+23,against
 Russian,Russian
 Russian,Ukraine
 Russian,Russia
@@ -39,6 +53,11 @@ Russian,order
 Russian,against
 Russian,ensky
 Russian,crisis
+Russian,European
+Russian,internation
+Russian,nation
+Russian,economic
+Russian,foreign
 Putin,Ukraine
 Putin,target
 Putin,order
@@ -49,6 +68,11 @@ Putin,article
 Putin,style
 Putin,feeds
 Putin,elated
+Putin,flare
+Putin,stories
+Putin,color
+Putin,rudge
+Putin,sanctions
 Europe,Ukraine
 Europe,European
 Europe,Russia
@@ -59,6 +83,11 @@ Europe,foreign
 Europe,ensky
 Europe,against
 Europe,article
+Europe,style
+Europe,invasion
+Europe,elated
+Europe,feeds
+Europe,color
 President,resident
 President,Ukraine
 President,Russia
@@ -69,6 +98,11 @@ President,ensky
 President,order
 President,against
 President,economic
+President,target
+President,foreign
+President,nation
+President,attack
+President,world
 putin,target
 putin,order
 putin,style
@@ -79,6 +113,11 @@ putin,flare
 putin,rudge
 putin,stories
 putin,article
+putin,world
+putin,Ukraine
+putin,foreign
+putin,invasion
+putin,ensky
 Kyiv,Ukraine
 Kyiv,order
 Kyiv,invasion
@@ -89,16 +128,26 @@ Kyiv,ensky
 Kyiv,world
 Kyiv,article
 Kyiv,sanctions
+Kyiv,feeds
+Kyiv,stories
+Kyiv,flare
+Kyiv,style
+Kyiv,color
 Un,Ukraine
 Un,United
 Un,Russia
 Un,Union
 Un,Monday
 Un,invasion
-Un,European
 Un,order
+Un,European
 Un,after
 Un,Russian
+Un,resident
+Un,States
+Un,target
+Un,nation
+Un,width
 West,Ukraine
 West,sanctions
 West,Russia
@@ -109,6 +158,11 @@ West,order
 West,foreign
 West,ruble
 West,article
+West,crisis
+West,invasion
+West,world
+West,resident
+West,business
 bank,sanctions
 bank,Ukraine
 bank,target
@@ -119,6 +173,11 @@ bank,article
 bank,ruble
 bank,crisis
 bank,against
+bank,world
+bank,business
+bank,Russia
+bank,elated
+bank,daily
 Eu,Ukraine
 Eu,target
 Eu,sanctions
@@ -129,16 +188,26 @@ Eu,ensky
 Eu,foreign
 Eu,article
 Eu,style
+Eu,against
+Eu,elated
+Eu,color
+Eu,world
+Eu,feeds
 European,European
 European,Ukraine
 European,Russia
-European,sanctions
 European,invasion
+European,sanctions
 European,nation
+European,order
 European,ensky
 European,Russian
-European,order
+European,target
 European,against
+European,economic
+European,crisis
+European,foreign
+European,resident
 Zelensky,ensky
 Zelensky,Ukraine
 Zelensky,order
@@ -149,6 +218,11 @@ Zelensky,article
 Zelensky,against
 Zelensky,world
 Zelensky,style
+Zelensky,ruble
+Zelensky,feeds
+Zelensky,flare
+Zelensky,stories
+Zelensky,color
 Kharkiv,Ukraine
 Kharkiv,ensky
 Kharkiv,sanctions
@@ -159,6 +233,11 @@ Kharkiv,article
 Kharkiv,world
 Kharkiv,ruble
 Kharkiv,crisis
+Kharkiv,against
+Kharkiv,business
+Kharkiv,style
+Kharkiv,headline
+Kharkiv,feeds
 War,Ukraine
 War,Russia
 War,invasion
@@ -169,6 +248,11 @@ War,against
 War,target
 War,Russian
 War,style
+War,internation
+War,sanctions
+War,elated
+War,nation
+War,resident
 ruble,ruble
 ruble,sanctions
 ruble,target
@@ -179,16 +263,26 @@ ruble,article
 ruble,Ukraine
 ruble,world
 ruble,crisis
+ruble,against
+ruble,business
+ruble,elated
+ruble,daily
+ruble,feeds
 interes,interest
 interes,order
 interes,Ukraine
 interes,economic
+interes,rates
 interes,sanctions
 interes,invasion
-interes,rates
 interes,Russia
 interes,target
 interes,foreign
+interes,nation
+interes,article
+interes,ensky
+interes,tanks
+interes,resident
 Kreml,Kremlin
 Kreml,Ukraine
 Kreml,invasion
@@ -199,16 +293,11 @@ Kreml,ensky
 Kreml,target
 Kreml,order
 Kreml,against
-Ukrainian,Ukrainian
-Ukrainian,Ukraine
-Ukrainian,Russian
-Ukrainian,Russia
-Ukrainian,invasion
-Ukrainian,Monday
-Ukrainian,order
-Ukrainian,after
-Ukrainian,resident
-Ukrainian,ensky
+Kreml,article
+Kreml,economic
+Kreml,Russian
+Kreml,foreign
+Kreml,tanks
 Ruble,sanctions
 Ruble,color
 Ruble,style
@@ -219,6 +308,26 @@ Ruble,target
 Ruble,against
 Ruble,article
 Ruble,break-
+Ruble,business
+Ruble,crisis
+Ruble,daily
+Ruble,ensky
+Ruble,feeds
+Ukrainian,Ukrainian
+Ukrainian,Ukraine
+Ukrainian,Russian
+Ukrainian,Russia
+Ukrainian,invasion
+Ukrainian,Monday
+Ukrainian,order
+Ukrainian,after
+Ukrainian,resident
+Ukrainian,ensky
+Ukrainian,their
+Ukrainian,country
+Ukrainian,force
+Ukrainian,talks
+Ukrainian,target
 Kremlin,Kremlin
 Kremlin,Ukraine
 Kremlin,invasion
@@ -229,6 +338,11 @@ Kremlin,ensky
 Kremlin,target
 Kremlin,order
 Kremlin,against
+Kremlin,economic
+Kremlin,article
+Kremlin,Russian
+Kremlin,foreign
+Kremlin,tanks
 allies,invasion
 allies,sanctions
 allies,Ukraine
@@ -239,6 +353,11 @@ allies,ensky
 allies,toward
 allies,economic
 allies,order
+allies,article
+allies,rates
+allies,tanks
+allies,resident
+allies,internation
 Vladimir,Vladimir
 Vladimir,Ukraine
 Vladimir,invasion
@@ -249,6 +368,11 @@ Vladimir,after
 Vladimir,nuclear
 Vladimir,alert
 Vladimir,order
+Vladimir,military
+Vladimir,target
+Vladimir,updates
+Vladimir,Monday
+Vladimir,chief
 Russians,invasion
 Russians,sanctions
 Russians,Ukraine
@@ -259,6 +383,11 @@ Russians,Russia
 Russians,target
 Russians,Russian
 Russians,rates
+Russians,foreign
+Russians,toward
+Russians,attack
+Russians,overnight
+Russians,russians
 Vladimir Putin,Vladimir
 Vladimir Putin,Ukraine
 Vladimir Putin,resident
@@ -269,16 +398,26 @@ Vladimir Putin,Monday
 Vladimir Putin,after
 Vladimir Putin,sanctions
 Vladimir Putin,force
+Vladimir Putin,Ukrainian
+Vladimir Putin,Moscow
+Vladimir Putin,tin's
+Vladimir Putin,Tuesday
+Vladimir Putin,nuclear
 chan,after
-chan,change
 chan,Ukraine
+chan,change
 chan,Monday
 chan,Russia
 chan,invasion
-chan,their
 chan,nation
+chan,their
 chan,while
 chan,Russian
+chan,country
+chan,including
+chan,target
+chan,Ukrainian
+chan,European
 Moscow,Moscow
 Moscow,Ukraine
 Moscow,Russia
@@ -288,7 +427,12 @@ Moscow,invasion
 Moscow,sanctions
 Moscow,resident
 Moscow,after
+Moscow,talks
 Moscow,force
+Moscow,Ukrainian
+Moscow,Tuesday
+Moscow,would
+Moscow,country
 Nation,National
 Nation,United
 Nation,Nations
@@ -296,9 +440,14 @@ Nation,nation
 Nation,Ukraine
 Nation,Monday
 Nation,ation
-Nation,government
 Nation,country
+Nation,government
 Nation,after
+Nation,their
+Nation,Russia
+Nation,first
+Nation,online
+Nation,neral
 Biden,after
 Biden,invasion
 Biden,order
@@ -309,6 +458,11 @@ Biden,alert
 Biden,nuclear
 Biden,article
 Biden,updates
+Biden,chief
+Biden,military
+Biden,Russia
+Biden,Ukraine
+Biden,feeds
 Belarus,Ukraine
 Belarus,Russian
 Belarus,Russia
@@ -319,6 +473,11 @@ Belarus,order
 Belarus,invasion
 Belarus,Monday
 Belarus,ensky
+Belarus,convoy
+Belarus,Ukrainian
+Belarus,troops
+Belarus,target
+Belarus,central
 News,first
 News,follow
 News,appeared
@@ -329,16 +488,26 @@ News,style
 News,swire
 News,width
 News,content
+News,uploads
+News,today
+News,assets
+News,post-
+News,nation
 UN,Ukraine
 UN,Russia
 UN,Monday
 UN,Russian
-UN,after
 UN,United
-UN,invasion
+UN,after
 UN,nation
-UN,Ukrainian
+UN,invasion
+UN,Nations
+UN,including
 UN,country
+UN,Ukrainian
+UN,while
+UN,European
+UN,their
 Minister,ister
 Minister,Ukraine
 Minister,Russia
@@ -349,6 +518,11 @@ Minister,after
 Minister,Tuesday
 Minister,resident
 Minister,including
+Minister,country
+Minister,sanctions
+Minister,European
+Minister,their
+Minister,crisis
 America,American
 America,order
 America,style
@@ -359,6 +533,11 @@ America,stories
 America,elated
 America,color
 America,column
+America,rudge
+America,world
+America,invasion
+America,nuclear
+America,Vladimir
 Western,Western
 Western,Russia
 Western,Ukraine
@@ -369,6 +548,11 @@ Western,Monday
 Western,after
 Western,resident
 Western,Tuesday
+Western,including
+Western,European
+Western,officials
+Western,Vladimir
+Western,target
 rusia,Ukraine
 rusia,force
 rusia,sanctions
@@ -379,6 +563,11 @@ rusia,ensky
 rusia,troops
 rusia,Russia
 rusia,crisis
+rusia,economic
+rusia,central
+rusia,between
+rusia,nation
+rusia,convoy
 EU,Russia
 EU,Ukraine
 EU,European
@@ -389,26 +578,41 @@ EU,sanctions
 EU,Monday
 EU,resident
 EU,nation
+EU,Union
+EU,target
+EU,Ukrainian
+EU,would
+EU,including
 Covid,Monday
 Covid,government
 Covid,coronavirus
 Covid,Tuesday
 Covid,after
 Covid,their
-Covid,cases
 Covid,country
+Covid,cases
 Covid,total
+Covid,there
 Covid,percent
+Covid,would
+Covid,further
+Covid,reported
+Covid,disease
 China,China
 China,Ukraine
 China,Russia
 China,Monday
 China,Chinese
+China,Beijing
 China,invasion
 China,resident
-China,Beijing
 China,which
 China,after
+China,based
+China,offic
+China,through
+China,their
+China,would
 German,Ukraine
 German,Germany
 German,order
@@ -419,6 +623,11 @@ German,military
 German,style
 German,feeds
 German,flare
+German,stories
+German,color
+German,column
+German,elated
+German,franc
 propaganda,propagand
 propaganda,target
 propaganda,order
@@ -429,6 +638,11 @@ propaganda,color
 propaganda,column
 propaganda,elated
 propaganda,feeds
+propaganda,flare
+propaganda,rudge
+propaganda,stories
+propaganda,style
+propaganda,with-
 russo,ensky
 russo,central
 russo,missile
@@ -439,6 +653,11 @@ russo,escalation
 russo,Missi
 russo,Standing
 russo,Worth
+russo,accuses
+russo,address
+russo,against
+russo,anding
+russo,arabs
 RT,Sputnik
 RT,Russia
 RT,Ukraine
@@ -449,26 +668,11 @@ RT,global
 RT,their
 RT,which
 RT,access
-European Union,Union
-European Union,European
-European Union,Ukraine
-European Union,Russia
-European Union,Monday
-European Union,Russian
-European Union,invasion
-European Union,Tuesday
-European Union,sanctions
-European Union,United
-statement,statement
-statement,Ukraine
-statement,government
-statement,Monday
-statement,Russia
-statement,invasion
-statement,their
-statement,after
-statement,Tuesday
-statement,Russian
+RT,Monday
+RT,European
+RT,platforms
+RT,align
+RT,source
 Facebook,Ukraine
 Facebook,Russia
 Facebook,Russian
@@ -479,6 +683,26 @@ Facebook,twitter
 Facebook,country
 Facebook,target
 Facebook,order
+Facebook,European
+Facebook,invasion
+Facebook,Ukrainian
+Facebook,interest
+Facebook,after
+European Union,Union
+European Union,European
+European Union,Ukraine
+European Union,Russia
+European Union,Monday
+European Union,invasion
+European Union,Russian
+European Union,Tuesday
+European Union,sanctions
+European Union,United
+European Union,after
+European Union,against
+European Union,resident
+European Union,country
+European Union,would
 Rusia,width
 Rusia,align
 Rusia,space
@@ -489,6 +713,26 @@ Rusia,pictures
 Rusia,Vladimir
 Rusia,thumbnails
 Rusia,unnew
+Rusia,merde
+Rusia,image
+Rusia,militar
+Rusia,negara
+Rusia,conflict
+statement,statement
+statement,Ukraine
+statement,government
+statement,Monday
+statement,Russia
+statement,invasion
+statement,their
+statement,after
+statement,Tuesday
+statement,nation
+statement,Russian
+statement,added
+statement,while
+statement,country
+statement,there
 Fear,target
 Fear,world
 Fear,order
@@ -499,36 +743,11 @@ Fear,ensky
 Fear,feeds
 Fear,flare
 Fear,mirror
-Russian President Vladimir Putin,resident
-Russian President Vladimir Putin,Vladimir
-Russian President Vladimir Putin,Russian
-Russian President Vladimir Putin,Ukraine
-Russian President Vladimir Putin,Russia
-Russian President Vladimir Putin,invasion
-Russian President Vladimir Putin,Monday
-Russian President Vladimir Putin,sanctions
-Russian President Vladimir Putin,force
-Russian President Vladimir Putin,Moscow
-Covid-19,Monday
-Covid-19,government
-Covid-19,coronavirus
-Covid-19,Tuesday
-Covid-19,their
-Covid-19,country
-Covid-19,total
-Covid-19,percent
-Covid-19,after
-Covid-19,there
-Freedom,Freedom
-Freedom,quare
-Freedom,missile
-Freedom,central
-Freedom,crimes
-Freedom,address
-Freedom,emotional
-Freedom,ensky
-Freedom,target
-Freedom,areas
+Fear,oligarchs
+Fear,rudge
+Fear,stories
+Fear,style
+Fear,Ukraine
 Visa,target
 Visa,government
 Visa,against
@@ -539,16 +758,41 @@ Visa,sanctions
 Visa,ation
 Visa,central
 Visa,daily
-Target,government
-Target,target
-Target,sanctions
-Target,between
-Target,ation
-Target,building
-Target,force
-Target,crisis
-Target,address
-Target,daily
+Visa,lifted
+Visa,lifts
+Visa,address
+Visa,elated
+Visa,rapid
+Russian President Vladimir Putin,resident
+Russian President Vladimir Putin,Vladimir
+Russian President Vladimir Putin,Russian
+Russian President Vladimir Putin,Ukraine
+Russian President Vladimir Putin,Russia
+Russian President Vladimir Putin,invasion
+Russian President Vladimir Putin,Monday
+Russian President Vladimir Putin,sanctions
+Russian President Vladimir Putin,force
+Russian President Vladimir Putin,Moscow
+Russian President Vladimir Putin,talks
+Russian President Vladimir Putin,after
+Russian President Vladimir Putin,tin's
+Russian President Vladimir Putin,troops
+Russian President Vladimir Putin,would
+Freedom,Freedom
+Freedom,quare
+Freedom,missile
+Freedom,central
+Freedom,crimes
+Freedom,address
+Freedom,emotional
+Freedom,ensky
+Freedom,target
+Freedom,areas
+Freedom,order
+Freedom,Ukraine
+Freedom,article
+Freedom,force
+Freedom,parlia
 Musk,Ukraine
 Musk,sanctions
 Musk,ation
@@ -559,6 +803,11 @@ Musk,areas
 Musk,article
 Musk,order
 Musk,target
+Musk,student
+Musk,tracks
+Musk,Missi
+Musk,Standing
+Musk,Worth
 NATO,Ukraine
 NATO,military
 NATO,target
@@ -569,6 +818,11 @@ NATO,historic
 NATO,Europe
 NATO,Germany
 NATO,policy
+NATO,emerging
+NATO,unite
+NATO,inland
+NATO,style
+NATO,feeds
 Germany,Germany
 Germany,Ukraine
 Germany,order
@@ -579,6 +833,56 @@ Germany,military
 Germany,color
 Germany,column
 Germany,elated
+Germany,feeds
+Germany,flare
+Germany,franc
+Germany,rudge
+Germany,stories
+Target,target
+Target,government
+Target,address
+Target,daily
+Target,sanctions
+Target,between
+Target,ation
+Target,building
+Target,crisis
+Target,force
+Target,luxury
+Target,oligarchs
+Target,lifts
+Target,feeds
+Target,lifted
+Covid-19,Monday
+Covid-19,government
+Covid-19,coronavirus
+Covid-19,their
+Covid-19,total
+Covid-19,Tuesday
+Covid-19,percent
+Covid-19,cases
+Covid-19,country
+Covid-19,disease
+Covid-19,after
+Covid-19,there
+Covid-19,resident
+Covid-19,would
+Covid-19,health
+Twitter,Twitt
+Twitter,Ukraine
+Twitter,Russia
+Twitter,invasion
+Twitter,Russian
+Twitter,twitter
+Twitter,target
+Twitter,after
+Twitter,width
+Twitter,content
+Twitter,image
+Twitter,Ukrainian
+Twitter,information
+Twitter,Monday
+Twitter,status
 Украины,content
 Украины,uploads
 Украины,opener
@@ -589,36 +893,11 @@ Germany,elated
 Украины,posts
 Украины,justify
 Украины,nanes
-Twitter,Twitt
-Twitter,Ukraine
-Twitter,Russia
-Twitter,invasion
-Twitter,twitter
-Twitter,Russian
-Twitter,target
-Twitter,after
-Twitter,width
-Twitter,content
-Japan,Japan
-Japan,Ukraine
-Japan,Russia
-Japan,sanctions
-Japan,Russian
-Japan,Tuesday
-Japan,invasion
-Japan,Kishi
-Japan,after
-Japan,Japanese
-Canada,Canada
-Canada,Ukraine
-Canada,Russia
-Canada,invasion
-Canada,sanctions
-Canada,against
-Canada,Russian
-Canada,European
-Canada,nation
-Canada,imports
+Украины,style
+Украины,poter
+Украины,height
+Украины,width
+Украины,polit
 AI,Ukraine
 AI,style
 AI,width
@@ -629,6 +908,41 @@ AI,Russia
 AI,order
 AI,color
 AI,feeds
+AI,flare
+AI,rudge
+AI,stories
+AI,invasion
+AI,world
+Canada,Canada
+Canada,Ukraine
+Canada,Russia
+Canada,invasion
+Canada,sanctions
+Canada,Russian
+Canada,against
+Canada,European
+Canada,nation
+Canada,imports
+Canada,internation
+Canada,reign
+Canada,equipment
+Canada,transaction
+Canada,resident
+Japan,Japan
+Japan,Ukraine
+Japan,Russia
+Japan,sanctions
+Japan,Russian
+Japan,invasion
+Japan,Kishi
+Japan,Tuesday
+Japan,Japanese
+Japan,after
+Japan,crisis
+Japan,ister
+Japan,resident
+Japan,clear
+Japan,between
 central bank,central
 central bank,Russia
 central bank,sanctions
@@ -638,27 +952,12 @@ central bank,Monday
 central bank,invasion
 central bank,currency
 central bank,country
+central bank,while
 central bank,after
-Russia-Ukraine,Ukraine
-Russia-Ukraine,Russia
-Russia-Ukraine,Russian
-Russia-Ukraine,invasion
-Russia-Ukraine,conflict
-Russia-Ukraine,after
-Russia-Ukraine,Ukrainian
-Russia-Ukraine,Monday
-Russia-Ukraine,crisis
-Russia-Ukraine,sanctions
-Roman,Ukraine
-Roman,Romania
-Roman,Monday
-Roman,invasion
-Roman,order
-Roman,Russia
-Roman,their
-Roman,after
-Roman,Ukrainian
-Roman,Russian
+central bank,European
+central bank,including
+central bank,ruble
+central bank,Ukrainian
 Russian invasion,invasion
 Russian invasion,Ukraine
 Russian invasion,Russian
@@ -669,6 +968,26 @@ Russian invasion,Ukrainian
 Russian invasion,crisis
 Russian invasion,after
 Russian invasion,country
+Russian invasion,talks
+Russian invasion,resident
+Russian invasion,ister
+Russian invasion,could
+Russian invasion,countries
+Roman,Ukraine
+Roman,Romania
+Roman,Monday
+Roman,invasion
+Roman,order
+Roman,Russia
+Roman,their
+Roman,Ukrainian
+Roman,after
+Roman,Russian
+Roman,Hungary
+Roman,nation
+Roman,Poland
+Roman,while
+Roman,country
 Nations,Nations
 Nations,United
 Nations,Ukraine
@@ -679,6 +998,26 @@ Nations,Assembly
 Nations,Russia
 Nations,Russian
 Nations,European
+Nations,country
+Nations,after
+Nations,including
+Nations,invasion
+Nations,against
+Russia-Ukraine,Ukraine
+Russia-Ukraine,Russia
+Russia-Ukraine,Russian
+Russia-Ukraine,invasion
+Russia-Ukraine,conflict
+Russia-Ukraine,after
+Russia-Ukraine,updates
+Russia-Ukraine,Ukrainian
+Russia-Ukraine,Monday
+Russia-Ukraine,crisis
+Russia-Ukraine,order
+Russia-Ukraine,sanctions
+Russia-Ukraine,which
+Russia-Ukraine,resident
+Russia-Ukraine,officials
 Israel,force
 Israel,student
 Israel,order
@@ -689,6 +1028,11 @@ Israel,fighters
 Israel,foreign
 Israel,style
 Israel,civilian
+Israel,harrowing
+Israel,business
+Israel,world
+Israel,feeds
+Israel,estate
 March,Tuesday
 March,Ukraine
 March,their
@@ -699,6 +1043,11 @@ March,first
 March,status
 March,target
 March,Russia
+March,since
+March,quote
+March,which
+March,added
+March,tweet
 Iran,sanctions
 Iran,Iranian
 Iran,crisis
@@ -709,6 +1058,11 @@ Iran,civilian
 Iran,harrowing
 Iran,against
 Iran,illing
+Iran,target
+Iran,Missi
+Iran,Standing
+Iran,Worth
+Iran,accuses
 Israeli,student
 Israeli,order
 Israeli,force
@@ -719,6 +1073,11 @@ Israeli,harrowing
 Israeli,estate
 Israeli,style
 Israeli,Missi
+Israeli,Standing
+Israeli,Worth
+Israeli,accuses
+Israeli,address
+Israeli,against
 Poland,Poland
 Poland,Ukraine
 Poland,invasion
@@ -729,6 +1088,11 @@ Poland,Hungary
 Poland,while
 Poland,Russia
 Poland,their
+Poland,country
+Poland,nation
+Poland,Romania
+Poland,after
+Poland,Russian
 Украине,content
 Украине,uploads
 Украине,opener
@@ -739,16 +1103,11 @@ Poland,their
 Украине,style
 Украине,rigor
 Украине,justify
-Ucraina,content
-Ucraina,static
-Ucraina,width
-Ucraina,align
-Ucraina,space
-Ucraina,image
-Ucraina,Russia
-Ucraina,video
-Ucraina,dell'
-Ucraina,steri
+Украине,posts
+Украине,nanes
+Украине,height
+Украине,width
+Украине,support
 Africa,African
 Africa,fleeing
 Africa,Ukraine
@@ -759,6 +1118,26 @@ Africa,blacks
 Africa,style
 Africa,world
 Africa,students
+Africa,buses
+Africa,color
+Africa,column
+Africa,dents
+Africa,feeds
+Ucraina,content
+Ucraina,static
+Ucraina,width
+Ucraina,align
+Ucraina,space
+Ucraina,image
+Ucraina,Russia
+Ucraina,video
+Ucraina,dell'
+Ucraina,Mosca
+Ucraina,steri
+Ucraina,contr
+Ucraina,presidente
+Ucraina,militar
+Ucraina,ensky
 Black,Black
 Black,Ukraine
 Black,target
@@ -769,6 +1148,11 @@ Black,world
 Black,blacks
 Black,fleeing
 Black,style
+Black,color
+Black,feeds
+Black,flare
+Black,rudge
+Black,with-
 Romania,Ukraine
 Romania,Romania
 Romania,Monday
@@ -779,6 +1163,11 @@ Romania,Hungary
 Romania,Ukrainian
 Romania,Poland
 Romania,nation
+Romania,after
+Romania,while
+Romania,Russian
+Romania,country
+Romania,capital
 Joe Biden,resident
 Joe Biden,Russia
 Joe Biden,Ukraine
@@ -789,6 +1178,11 @@ Joe Biden,alert
 Joe Biden,after
 Joe Biden,House
 Joe Biden,former
+Joe Biden,Vladimir
+Joe Biden,White
+Joe Biden,delegation
+Joe Biden,Taiwan
+Joe Biden,States
 Oligarch,oligarchs
 Oligarch,yachts
 Oligarch,feeds
@@ -799,6 +1193,11 @@ Oligarch,invasion
 Oligarch,target
 Oligarch,color
 Oligarch,column
+Oligarch,elated
+Oligarch,flare
+Oligarch,freeze
+Oligarch,moves
+Oligarch,nuclear
 Kiev,width
 Kiev,image
 Kiev,content
@@ -806,9 +1205,14 @@ Kiev,capital
 Kiev,militar
 Kiev,russe
 Kiev,ensky
-Kiev,entre
 Kiev,align
+Kiev,entre
 Kiev,Russia
+Kiev,Ukraine
+Kiev,contr
+Kiev,height
+Kiev,space
+Kiev,static
 mino,target
 mino,nuclear
 mino,order
@@ -819,16 +1223,11 @@ mino,defense
 mino,signs
 mino,ensky
 mino,image
-Ukrainians,Ukrainian
-Ukrainians,Ukraine
-Ukrainians,invasion
-Ukrainians,Russian
-Ukrainians,Russia
-Ukrainians,ensky
-Ukrainians,resident
-Ukrainians,Monday
-Ukrainians,under
-Ukrainians,their
+mino,troops
+mino,convoy
+mino,satellite
+mino,their
+mino,after
 Oligarchs,oligarchs
 Oligarchs,yachts
 Oligarchs,assets
@@ -839,6 +1238,11 @@ Oligarchs,elated
 Oligarchs,feeds
 Oligarchs,flare
 Oligarchs,freeze
+Oligarchs,moves
+Oligarchs,nuclear
+Oligarchs,order
+Oligarchs,rudge
+Oligarchs,stories
 The Russian,Russian
 The Russian,Ukraine
 The Russian,Monday
@@ -849,16 +1253,11 @@ The Russian,country
 The Russian,invasion
 The Russian,central
 The Russian,markets
-Ukrainian President,Ukrainian
-Ukrainian President,resident
-Ukrainian President,ensky
-Ukrainian President,Ukraine
-Ukrainian President,Russia
-Ukrainian President,Russian
-Ukrainian President,Monday
-Ukrainian President,country
-Ukrainian President,invasion
-Ukrainian President,after
+The Russian,currency
+The Russian,resident
+The Russian,Ukrainian
+The Russian,trading
+The Russian,interest
 Putins,article
 Putins,order
 Putins,Pentagon
@@ -869,6 +1268,11 @@ Putins,caught
 Putins,chief
 Putins,chiefs
 Putins,color
+Putins,column
+Putins,daily
+Putins,decree
+Putins,destruction
+Putins,elated
 Hungary,Hungary
 Hungary,Ukraine
 Hungary,Monday
@@ -879,6 +1283,26 @@ Hungary,Poland
 Hungary,their
 Hungary,country
 Hungary,after
+Hungary,Romania
+Hungary,European
+Hungary,nation
+Hungary,while
+Hungary,Russian
+Ukrainians,Ukrainian
+Ukrainians,Ukraine
+Ukrainians,invasion
+Ukrainians,Russian
+Ukrainians,Russia
+Ukrainians,ensky
+Ukrainians,Monday
+Ukrainians,their
+Ukrainians,resident
+Ukrainians,under
+Ukrainians,after
+Ukrainians,Europe
+Ukrainians,country
+Ukrainians,Tuesday
+Ukrainians,resist
 Mark,Market
 Mark,after
 Mark,Ukraine
@@ -889,6 +1313,26 @@ Mark,latest
 Mark,their
 Mark,Monday
 Mark,serve
+Mark,follow
+Mark,which
+Mark,during
+Mark,could
+Mark,elated
+Ukrainian President,Ukrainian
+Ukrainian President,resident
+Ukrainian President,ensky
+Ukrainian President,Ukraine
+Ukrainian President,Russia
+Ukrainian President,Russian
+Ukrainian President,Monday
+Ukrainian President,country
+Ukrainian President,invasion
+Ukrainian President,after
+Ukrainian President,talks
+Ukrainian President,Moscow
+Ukrainian President,membership
+Ukrainian President,would
+Ukrainian President,European
 Ukraina,Ukraina
 Ukraina,align
 Ukraina,space
@@ -899,6 +1343,11 @@ Ukraina,thumbnails
 Ukraina,unnew
 Ukraina,merde
 Ukraina,pictures
+Ukraina,negara
+Ukraina,terse
+Ukraina,ingan
+Ukraina,liter
+Ukraina,reside
 Finland,military
 Finland,policy
 Finland,historic
@@ -909,6 +1358,11 @@ Finland,inland
 Finland,article
 Finland,foreign
 Finland,target
+Finland,Boring
+Finland,U-turn
+Finland,awakening
+Finland,color
+Finland,column
 Chan,Channel
 Chan,Monday
 Chan,company
@@ -919,6 +1373,11 @@ Chan,Chang
 Chan,global
 Chan,shares
 Chan,dings
+Chan,ating
+Chan,reports
+Chan,quarter
+Chan,during
+Chan,selling
 germany,order
 germany,color
 germany,column
@@ -929,6 +1388,11 @@ germany,franc
 germany,rudge
 germany,stories
 germany,style
+germany,target
+germany,Ukraine
+germany,Europe
+germany,many-
+germany,inland
 Moldova,Monday
 Moldova,Ukraine
 Moldova,order
@@ -939,6 +1403,11 @@ Moldova,while
 Moldova,Hungary
 Moldova,Poland
 Moldova,Ukrainian
+Moldova,nation
+Moldova,after
+Moldova,country
+Moldova,Russian
+Moldova,civilians
 COVID-19,Tuesday
 COVID-19,inquirer
 COVID-19,Philippines
@@ -949,6 +1418,11 @@ COVID-19,country
 COVID-19,after
 COVID-19,areas
 COVID-19,covid
+COVID-19,vaccination
+COVID-19,according
+COVID-19,during
+COVID-19,infections
+COVID-19,government
 Sputnik,Sputnik
 Sputnik,Russia
 Sputnik,Europe
@@ -959,6 +1433,11 @@ Sputnik,Russian
 Sputnik,outlets
 Sputnik,access
 Sputnik,rainy
+Sputnik,Twitt
+Sputnik,across
+Sputnik,arent
+Sputnik,restrict
+Sputnik,European
 Anonymous,onymous
 Anonymous,feeds
 Anonymous,flare
@@ -969,6 +1448,11 @@ Anonymous,attack
 Anonymous,broadcast
 Anonymous,color
 Anonymous,column
+Anonymous,elated
+Anonymous,evacuation
+Anonymous,giant
+Anonymous,hacks
+Anonymous,heartbreaking
 Scholz,Scholz
 Scholz,military
 Scholz,Boring
@@ -979,6 +1463,11 @@ Scholz,color
 Scholz,column
 Scholz,elated
 Scholz,emerging
+Scholz,fears
+Scholz,feeds
+Scholz,flare
+Scholz,foreign
+Scholz,franc
 Rosji,inform
 Rosji,rainy
 Rosji,propagand
@@ -989,13 +1478,23 @@ Rosji,Ursula
 Rosji,Russia
 Rosji,mowie
 Rosji,proc.
-Telegram,Russia
-Telegram,offic
-Telegram,including
-Telegram,military
-Telegram,resident
-Telegram,Ukraine
-Telegram,Vladimir
-Telegram,gram.
-Telegram,image
-Telegram,France
+Rosji,Darius
+Rosji,argument
+Rosji,denty
+Rosji,parti
+Rosji,stale
+Olaf Scholz,Scholz
+Olaf Scholz,military
+Olaf Scholz,Boring
+Olaf Scholz,U-turn
+Olaf Scholz,article
+Olaf Scholz,awakening
+Olaf Scholz,color
+Olaf Scholz,column
+Olaf Scholz,elated
+Olaf Scholz,emerging
+Olaf Scholz,fears
+Olaf Scholz,feeds
+Olaf Scholz,flare
+Olaf Scholz,foreign
+Olaf Scholz,franc
